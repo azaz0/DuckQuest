@@ -1,0 +1,6 @@
+venv
+.venv
+venv/*
+.pytest_cache
+.pytest_cache/*
+screenshots/*
